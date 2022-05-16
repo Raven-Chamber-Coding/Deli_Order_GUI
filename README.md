@@ -7,18 +7,23 @@ Problems: The total price is not calculated yet. There are no input validations.
 
 Next Step: Add a formula for calculating price. Add input validations. Disable buttons and fields on end. Get rid of the editable entry field on price.
 
-USER MANUAL:
+User Manual for Deli Order GUI
+Version: 1.0
+By Lucas Landis
+My GitHub repository can be found at: https://github.com/Raven-Chamber-Coding/Deli_Order_GUI
+
 Upon start up the program will display a form with entries for each part of the form.
-Enter a number for the width and weight of meart and cheese.
+Enter a number in pounds for the weight of meat and cheese.
+Choose the meat and cheese width with dropdown menu.
 Choose the meat or cheese option from the dropdown menu.
 Enter your name in the name for order entry.
 
 At the side their are three buttons, a quit, submit, and check price button.
-The quit button closes the program and the submit button submits the form and shows price.
+The quit button closes the program and the submit button submits the form and shows a thank you window.
 The check price button will display the price of the current order.
 Click the check price button the see the current price of the order.
 Click the submit button to confirm your order.
 Click the quit button the exit the program.
 
-After submiting the form a second window will open with the price.
-The second window will have a quit button at the top which will close the program.
+After submiting the form a second window will open with the thank you window as a confirmation of order.
+
